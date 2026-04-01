@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: black;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.formu{
+    max-width: 800px;
+    width: 100%;
+}
